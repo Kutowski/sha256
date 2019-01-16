@@ -1,0 +1,12 @@
+{
+  "name": "sha256",
+  "version": "1.0.0",
+  "description": "SHA256 Test",
+  "main": "index.js",
+  "author": "TB",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
